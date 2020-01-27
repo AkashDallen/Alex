@@ -1,3 +1,3 @@
 # Alex
-my way to lean coding
+my way to learn coding
 what is your name master
